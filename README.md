@@ -1,7 +1,8 @@
 # Covid-19-Corpus
-A collection of Covid-19-related research articles/abstracts, to facilitate NLP, ML, and medical research.
+A collection of Covid-19-related research articles/abstracts, to facilitate NLP, ML, and medical research. The corpus currently containts roughly 23K abstracts from Elsevier and 4K abstracts from Wiley.
 
 Citation:
+
 @MISC {zhang2020covidcorpus,
     author       = "Zhu Zhang, Yun Bang, Amulya Gupta",
     title        = "CyCovid Corpus: A Collection of Covid-19-Related Articles and Abstracts",
