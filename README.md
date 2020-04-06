@@ -4,15 +4,10 @@ A collection of Covid-19-related research articles/abstracts, to facilitate NLP,
 Citation:
 
 @MISC {zhang2020covidcorpus,
-
-    author       = "Zhu Zhang, Yun Bang, Amulya Gupta",
-    
-    title        = "CyCovid Corpus: A Collection of Covid-19-Related Articles and Abstracts",
-    
-    howpublished = "https://github.com/zhuzhang-git/Covid-19-Corpus",
-    
-    month        = "apr",
-    
+    author       = "Zhu Zhang, Yun Bang, Amulya Gupta",    
+    title        = "CyCovid Corpus: A Collection of Covid-19-Related Articles and Abstracts",    
+    howpublished = "https://github.com/zhuzhang-git/Covid-19-Corpus",   
+    month        = "apr",   
     year         = "2020"
 }
 
