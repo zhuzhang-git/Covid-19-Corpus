@@ -1,4 +1,13 @@
 # Covid-19-Corpus
-A collection Covid-19-related research articles/abstracts, to facilitate NLP, ML, and medical research.
+A collection of Covid-19-related research articles/abstracts, to facilitate NLP, ML, and medical research.
+
+Citation:
+@MISC {zhang2020covidcorpus,
+    author       = "Zhu Zhang, Yun Bang, Amulya Gupta",
+    title        = "CyCovid Corpus: A Collection of Covid-19-Related Articles and Abstracts",
+    howpublished = "https://github.com/zhuzhang-git/Covid-19-Corpus",
+    month        = "apr",
+    year         = "2020"
+}
 
 It would be greatly appreciated if you let us know (zhuzhang@iastate.edu) where/how you use this corpus.
